@@ -3,6 +3,17 @@ ihelp
 
 jQuery library for providing tooltip overlays to aid user interaction
 
+Examples
+--------
+
+http://gkwelding.github.com/ihelp/regularTour.html
+
+http://gkwelding.github.com/ihelp/autoTour.html
+
+http://gkwelding.github.com/ihelp/withoutOverlay.html
+
+http://gkwelding.github.com/ihelp/withoutStartButtonHide.html
+
 Usage
 -----
 
